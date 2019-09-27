@@ -1,6 +1,6 @@
 {
-  "name": "pwa-app",
-  "short_name": "pwa-app",
+  "name": "Random cats",
+  "short_name": "Random cats",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
